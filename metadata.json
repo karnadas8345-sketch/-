@@ -1,0 +1,7 @@
+{
+  "name": "Remix: জ্যোতিষ শাস্ত্র - Cosmic Insights",
+  "description": "একটি আধুনিক বহুভাষিক জ্যোতিষ শাস্ত্র অ্যাপ (বাংলা, हिन्दी, English, नेपाली, ଓଡ଼ିଆ, मराठी, ગુજરાતી)। A modern multilingual astrology app supporting Bengali, Hindi, English, Nepali, Odia, Marathi, and Gujarati.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
